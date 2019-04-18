@@ -24,7 +24,7 @@ public class GeneratorSqlmap {
 				callback, warnings);
 		myBatisGenerator.generate(null);
 
-		System.out.println("生成成功");
+		System.out.println("生成成功！");
 
 
 	} 
