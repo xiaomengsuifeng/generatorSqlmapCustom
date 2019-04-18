@@ -1,6 +1,7 @@
 HELP.md
 /target/
 /src/com/
+/bin/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
